@@ -1,0 +1,19 @@
+Hello everyone,
+
+Hope everything is going smoothly. 
+
+I am writing to discuss some data issues that have arisen throughout the analysis which I may require your assistance in resolving.
+
+Firstly, there are a significant amount of data missing from the current dataset which may have an impact on analytical results. For example, half of these receipt data lack an item barcode, making it impossible to distinguish to which brands these receipts belong. Furthermore, it may compromise the accuracy of brand-related research.
+
+Secondly, I looked at the distribution of points gained by various orders and found that there are a lot of small ones and a lot of big ones, but very few in the center. This clearly deviates largely from the normal distribution, and I suspect it could be due to a lack of data. 
+
+To fix it, could you please help me check whether there are any barcode data missing from the current dataset? Also, it would be helpful if you could provide me with more information about the receipts. 
+
+Finally, we are using text descriptions in the column 'bonusPointsEarnedReason' now, but these will become inconvenient and may cause trouble once we have millions of records. Therefore, I propose that we use numbers to encode the reasons in order to increase efficiency.
+
+Thank you in advance for your assistance and please let me know if you have any questions. 
+
+Best,
+
+Qi
